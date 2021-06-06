@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+gan_apps/GAN_Apps.egg-info/PKG-INFO
+gan_apps/GAN_Apps.egg-info/SOURCES.txt
+gan_apps/GAN_Apps.egg-info/dependency_links.txt
+gan_apps/GAN_Apps.egg-info/requires.txt
+gan_apps/GAN_Apps.egg-info/top_level.txt
+gan_apps/colourgan/__init__.py
+gan_apps/colourgan/config.py
+gan_apps/colourgan/data.py
+gan_apps/colourgan/logger.py
+gan_apps/colourgan/model.py
+gan_apps/colourgan/networks.py
+gan_apps/colourgan/streamlit_app.py
+gan_apps/colourgan/utils.py
